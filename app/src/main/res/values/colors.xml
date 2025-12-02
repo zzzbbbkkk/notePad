@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 待办事项相关颜色定义 -->
+    <color name="completed_task_color">#FF4CAF50</color> <!-- 绿色表示已完成 -->
+    <color name="overdue_task_color">#FFf44336</color> <!-- 红色表示已逾期 -->
+    <color name="normal_task_color">#FF2196F3</color> <!-- 蓝色表示正常 -->
+    
+    <!-- 其他可能需要的颜色 -->
+    <color name="todo_section_background">#FFE0E0E0</color>
+    <color name="bottom_control_background">#FFFFFFFF</color>
+</resources>

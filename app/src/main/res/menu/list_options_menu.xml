@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_add"
+        android:icon="@drawable/ic_menu_compose"
+        android:title="@string/menu_add"
+        android:alphabeticShortcut='a'
+        android:showAsAction="always" />
+
+    <item android:id="@+id/menu_paste"
+        android:icon="@drawable/ic_menu_compose"
+        android:title="@string/menu_paste"
+        android:alphabeticShortcut='p' />
+
+    <item android:id="@+id/menu_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="搜索"
+        android:showAsAction="ifRoom"
+        android:alphabeticShortcut='s' />
+
+</menu>
